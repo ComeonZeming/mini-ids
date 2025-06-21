@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "type": "Admin Panel Scan",
+      "match": "/admin"
+    },
+    {
+      "type": "File Access Violation",
+      "match": "/etc/passwd"
+    }
+  ]
+}
+ 

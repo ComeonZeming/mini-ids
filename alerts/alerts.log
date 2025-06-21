@@ -1,0 +1,3 @@
+ 
+2025-06-21 14:04:16.347017 - [ALERT] Admin Panel Scan detected: 192.168.1.50 - - [21/Jun/2025:13:55:36] "GET /admin" 404
+2025-06-21 14:04:16.348055 - [ALERT] File Access Violation detected: 192.168.1.50 - - [21/Jun/2025:13:55:37] "GET /etc/passwd" 403
